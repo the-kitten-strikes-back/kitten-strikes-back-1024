@@ -1,4 +1,5 @@
-# the-kitten-strikes-back / https://tryhackme.com/p/kittenstrikesbac
+# the-kitten-strikes-back
+*https://tryhackme.com/p/kittenstrikesbac*
 
 Hi there! I’m **Sidharth** 👋  
 A Python(I know, I know...) programmer and cybersecurity enthusiast who loves breaking things (ethically) and building tools that go ***fast*** ⚡ (come on, Python's not *that* slow!)
